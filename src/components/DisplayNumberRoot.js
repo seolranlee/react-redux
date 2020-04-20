@@ -6,7 +6,7 @@ class DisplayNumberRoot extends Component {
     return (
       <div>
         <h1>Display Number Root</h1>
-        <DisplayNumberContainer />
+        <DisplayNumberContainer unit="kg" />
       </div>
     );
   }

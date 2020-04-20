@@ -5,6 +5,7 @@ class AddNumber extends Component {
     size: 1
   };
   render() {
+    console.log("App Number");
     return (
       <div>
         <h1>Add Number</h1>
